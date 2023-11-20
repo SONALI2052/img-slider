@@ -4,7 +4,7 @@ const pag1 = document.querySelector('.pag-1');
 const pag2 = document.querySelector('.pag-2');
 const pag3 = document.querySelector('.pag-3');
 const pag = document.querySelectorAll('.pag');
-
+const img = document.querySelector('.img-container img');
 const slider = [
     {
         imgUrl: 'assets/img/img-1.jpg',
