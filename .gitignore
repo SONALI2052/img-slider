@@ -1,4 +1,4 @@
 node_modules
-.eslintrc
+.eslintrc 
 .vscode
 package-lock.json
